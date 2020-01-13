@@ -28,7 +28,7 @@ public class GSProductPage extends BasePage {
             /*Appium only see those elements which are visible.. In this case only 2 products are visible which is not true.
              * So, adding all products in list, search for needed product in this list will not work. As, appium will give only visible list items.
              * Now, Only scroll to that product will also not work, as appium will stop as soon as it finds that product. It would be the case, where
-             * "Add to Cart" link will not visible.
+             * "Add to Cart" link will not visible...
              * Hence, there is another way of doing that as follows:*/
 
             androidDriver.findElementByAndroidUIAutomator("new UiScrollable(new UiSelector()"
