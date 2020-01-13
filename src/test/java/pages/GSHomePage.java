@@ -51,7 +51,7 @@ public class GSHomePage extends BasePage{
             String toastMessage = txtToastMessage.getAttribute("name");
             if(toastMessage.contains("Please")) {
                 System.out.println("Error Message: " + toastMessage);
-                txtNameField.sendKeys("Test");
+                txtNameField.sendKeys("Testing");
                 btnLetsShop.click();
             }
 
