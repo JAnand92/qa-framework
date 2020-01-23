@@ -6,9 +6,11 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
 
-public class GSHomePage extends BasePage {
 
-    public final WebDriver driver;
+public class GSHomePage {
+
+    private final WebDriver driver;
+    private BasePage basePage;
 
     @AndroidFindBy(xpath = "//android.widget.EditText[contains(@resource-id, 'nameField')]")
     private static WebElement txtNameField;
@@ -19,7 +21,7 @@ public class GSHomePage extends BasePage {
     @AndroidFindBy(xpath = "//android.widget.TextView[contains(@resource-id, 'text1')]")
     private static WebElement txtDropDown;
 
-    @AndroidFindBy(uiAutomator = "//android.widget.TextView[@text = 'Ireland']")
+    @AndroidFindBy(xpath = "//android.widget.TextView[@text = 'Ireland']")
     private static WebElement txtDropDownOption;
 
     @AndroidFindBy(xpath = "//android.widget.Button[contains(@resource-id, 'btnLetsShop')]")
@@ -31,53 +33,32 @@ public class GSHomePage extends BasePage {
     public GSHomePage(WebDriver driver) {
         this.driver = driver;
         PageFactory.initElements(new AppiumFieldDecorator(driver), this);
+        basePage = new BasePage(driver);
     }
 
     public static GSHomePage using(WebDriver driver) {
         return new GSHomePage(driver);
     }
 
+    public GSHomePage setCountry(String countryName) {
+        basePage.click(this.txtDropDown);
+        basePage.scrollDown(countryName);
+        basePage.click(this.txtDropDownOption);
+        return this;
+    }
+
    public GSHomePage setName(String name) {
-        this.txtNameField.sendKeys("Hello");
+        basePage.enter(this.txtNameField, "Hello");
         return this;
    }
 
    public GSHomePage setGender() {
-        this.rdbFemale.click();
+        basePage.click(this.rdbFemale);
         return this;
    }
 
    public void submit() {
-        btnLetsShop.click();
+        basePage.click(btnLetsShop);
    }
 
-    public static void fillFormAndStartShopping() {
-        try {
-            rdbFemale.click();
-            txtDropDown.click();
-            androidDriver.findElementByAndroidUIAutomator
-                    ("new UiScrollable(new UiSelector()).scrollIntoView(text(\"Ireland\"));");
-
-            /*In case scroll into view does not work on some android OS version(s)*/
-            /* driver.findElement(MobileBy.AndroidUIAutomator
-            ("new UiScrollable(new UiSelector().scrollable(true).instance(0))
-            .scrollIntoView(new UiSelector().
-            extMatches(\"" + containedText + "\").instance(0))"));  */
-
-            txtDropDown.click();
-            btnLetsShop.click();
-
-            /*In case Toast messages(Validation/Error Message) --> Class Name would be always android.widget.Toast
-             * and, error message is always put into name attribute.*/
-            String toastMessage = txtToastMessage.getAttribute("name");
-            if(toastMessage.contains("Please")) {
-                System.out.println("Error Message: " + toastMessage);
-                txtNameField.sendKeys("Testing");
-                btnLetsShop.click();
-            }
-
-        } catch (Exception e) {
-            System.out.println(e.fillInStackTrace());
-        }
-    }
 }

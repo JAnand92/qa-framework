@@ -3,7 +3,6 @@ package utils.listeners;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
-import pages.BasePage;
 
 public class TestListeners implements ITestListener {
 
@@ -22,7 +21,6 @@ public class TestListeners implements ITestListener {
         try {
             /*Take screenshot*/
             String testCaseName = result.getName();
-            BasePage.takeScreenShot(testCaseName);
         } catch (Exception e) {
             System.out.println(e.fillInStackTrace());
         }

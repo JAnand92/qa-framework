@@ -1,44 +1,47 @@
 package pages;
 
-import io.appium.java_client.android.nativekey.AndroidKey;
-import io.appium.java_client.android.nativekey.KeyEvent;
-import org.apache.commons.io.FileUtils;
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
-import tests.archive.BaseTest;
-
-import java.io.File;
-import java.util.Set;
+import io.appium.java_client.android.AndroidDriver;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import tests.BaseTest;
 
 public class BasePage extends BaseTest {
 
-    public static void takeScreenShot(String testCaseName) {
+    public BasePage(WebDriver driver) {
+        this.driver = driver;
+    }
+
+    /*Scroll down to the visible element*/
+    public void scrollDown(String str) {
         try {
-            File srcFile = ((TakesScreenshot)androidDriver).getScreenshotAs(OutputType.FILE);
-            FileUtils.copyFile(srcFile, new File(new File("screenshots")
-                    .getAbsolutePath(), testCaseName.concat(".png")));
+            ((AndroidDriver) driver).findElementByAndroidUIAutomator
+                    ("new UiScrollable(new UiSelector()).scrollIntoView(text(\""+str+"\"));");
+        } catch (Exception e) {
+            System.out.println(e.fillInStackTrace());
+        }
+    }
+    /*Click Method*/
+    public void click(WebElement element) {
+        try {
+            element.click();
         } catch (Exception e) {
             System.out.println(e.fillInStackTrace());
         }
     }
 
-    /*Switch to Web Context*/
-    public static void switchToWebContextAndDoOperations() {
+    /*Submit method*/
+    public void submit(WebElement element) {
         try {
-            Thread.sleep(7000);
-            Set<String> contexts = androidDriver.getContextHandles();
-            for(String contextName : contexts) {
-                System.out.println(contextName);
-            }
-            androidDriver.context("WEBVIEW_com.androidsample.generalstore");
-            androidDriver.findElementByName("q").sendKeys("Hello!");
-            /*To search the query on google, press key!*/
-            androidDriver.findElementByName("q").sendKeys(Keys.ENTER);
-            /*Perform all operation on web view and go back to native app.*/
-            androidDriver.pressKey(new KeyEvent(AndroidKey.BACK));
-            Thread.sleep(5000);
-            androidDriver.context("NATIVE_APP");
+            element.submit();
+        } catch (Exception e) {
+            System.out.println(e.fillInStackTrace());
+        }
+    }
+
+    /*Enter value*/
+    public void enter(WebElement element, String value) {
+        try {
+            element.sendKeys(value);
         } catch (Exception e) {
             System.out.println(e.fillInStackTrace());
         }

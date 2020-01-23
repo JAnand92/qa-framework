@@ -3,6 +3,54 @@
   <component name="ChangeListManager">
     <list default="true" id="cd9a433b-ae2b-45ce-8f7e-d19f4816fab4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/GSHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/GSHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/archive/GSCartPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/archive/GSProductPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/AndroidGSTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/AndroidGSTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/archive/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/archive/GeneralStoreAppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/listeners/TestListeners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/listeners/TestListeners.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-tests.GeneralStoreAppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/Command line test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/GSHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/GSHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/archive/GSCartPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/archive/GSProductPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/AndroidGSTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/AndroidGSTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/archive/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/archive/GeneralStoreAppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utils/listeners/TestListeners.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utils/listeners/TestListeners.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,22 +86,22 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="pages" />
-      <recent name="tests" />
-      <recent name="utils" />
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\test\web\java\resources" />
-      <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\resources" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\test\java\resources" />
       <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\test" />
       <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\test\mobile" />
       <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\test\java" />
       <recent name="C:\Development\QA\Tools\Appium\qa-framework\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="tests" />
+      <recent name="pages" />
+      <recent name="utils" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\test\web\java\resources" />
+      <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\resources" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG.AndroidGSTest">
@@ -77,7 +125,7 @@
     <configuration name="BaseTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="qa-framework" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="tests.archive.BaseTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.BaseTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -85,10 +133,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaseTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="BaseTest1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="qa-framework" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="tests.BaseTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.BaseTest1" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -122,7 +170,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.archive.GeneralStoreAppTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.GeneralStoreAppTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -134,12 +182,12 @@
       <module name="qa-framework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.archive.*" />
+          <option name="PATTERN" value="tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.archive.GeneralStoreAppTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.GeneralStoreAppTest" />
       <option name="METHOD_NAME" value="TC_001_ClientItemPurchaseJourney" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -154,7 +202,7 @@
         <item itemvalue="TestNG.GeneralStoreAppTest.TC_001_ClientItemPurchaseJourney" />
         <item itemvalue="TestNG.FactoryManagerTest" />
         <item itemvalue="TestNG.GeneralStoreAppTest" />
-        <item itemvalue="TestNG.BaseTest" />
+        <item itemvalue="TestNG.BaseTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -197,6 +245,7 @@
       <workItem from="1579553523089" duration="28549000" />
       <workItem from="1579701828404" duration="2698000" />
       <workItem from="1579743546821" duration="786000" />
+      <workItem from="1579753670633" duration="294000" />
     </task>
     <servers />
   </component>
@@ -204,6 +253,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="371" y="95" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579750051260">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="95" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1579750051260" />
     <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1579695151635">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -212,22 +265,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="303" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1579700228776" />
-    <state x="438" y="200" width="404" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579702870817">
+    <state x="438" y="200" width="404" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579746215008">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="438" y="200" width="404" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1579702870817" />
+    <state x="438" y="200" width="404" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1579746215008" />
     <state x="438" y="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1579700232405">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="438" y="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.680@0.0.1280.680" timestamp="1579700232405" />
-    <state x="326" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579663241906">
+    <state x="326" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579746609013">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="326" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1579663241906" />
-    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579663286874">
+    <state x="326" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1579746609013" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579753505364">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1579663286874" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1579753505364" />
     <state x="505" y="322" width="503" height="295" key="#xdebugger.evaluate" timestamp="1578499102318">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -236,38 +289,46 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579655787194" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1579745684400">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1579753932620">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579745684400" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1579745684398">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579753932620" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1579753932619">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579745684398" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1579745684398">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579753932619" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1579753932619">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579745684398" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1579745684399">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579753932619" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1579753932619">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579745684399" />
-    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1578534675062">
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579753932619" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1579753666310">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578534675062" />
-    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1578534675062">
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579753666310" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1579753666310">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1578534675062" />
-    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1578534675062">
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1579753666310" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1579753666309">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1578534675062" />
-    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1578534675062">
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1579753666309" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1579753666310">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1578534675062" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1579753666310" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1579750435109">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1579750435109" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1579748848604">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1579748848604" />
     <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1578925364008">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -280,9 +341,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="383" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1579703066702" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1579664982208">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1579752751495">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579664982208" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579752751495" />
   </component>
 </project>
