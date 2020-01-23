@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd9a433b-ae2b-45ce-8f7e-d19f4816fab4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Jayesh_Anand.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Jayesh_Anand.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qa-framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/qa-framework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/global.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/global.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/GSCartPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/GSHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/GSHomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/GSProductPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/resources/General-Store.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/resources/StartJATestEmulator.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/GeneralStoreAppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/qa-framework.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/BasePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/GSCartPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/GSHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/GSHomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/GSProductPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/BaseTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/GeneralStoreAppTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,7 +196,7 @@
       <workItem from="1579552567761" duration="804000" />
       <workItem from="1579553523089" duration="28549000" />
       <workItem from="1579701828404" duration="2698000" />
-      <workItem from="1579743546821" duration="409000" />
+      <workItem from="1579743546821" duration="786000" />
     </task>
     <servers />
   </component>
@@ -254,22 +236,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579655787194" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1579701815203">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1579745684400">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579701815203" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1579701815202">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579745684400" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1579745684398">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579701815202" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1579701815202">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579745684398" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1579745684398">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579701815202" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1579701815202">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579745684398" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1579745684399">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579701815202" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579745684399" />
     <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1578534675062">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
