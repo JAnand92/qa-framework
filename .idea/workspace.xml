@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd9a433b-ae2b-45ce-8f7e-d19f4816fab4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Jayesh_Anand.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Jayesh_Anand.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qa-framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/qa-framework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/global.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/global.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/GSCartPage.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pages/GSHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/GSHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/GSProductPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/General-Store.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/StartJATestEmulator.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/GeneralStoreAppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/qa-framework.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/GSCartPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/GSHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/GSHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/GSProductPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/GeneralStoreAppTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +30,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -31,29 +50,52 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/web/java/resources" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pages" />
+      <recent name="tests" />
+      <recent name="utils" />
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\test\web\java\resources" />
       <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\test\java\resources" />
+      <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\test" />
+      <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\test\mobile" />
       <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\test\java" />
       <recent name="C:\Development\QA\Tools\Appium\qa-framework\src" />
-      <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.GeneralStoreAppTest">
+  <component name="RunManager" selected="TestNG.AndroidGSTest">
+    <configuration name="AndroidGSTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qa-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.AndroidGSTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BaseTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="qa-framework" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="tests.BaseTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.archive.BaseTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -72,36 +114,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaseTest.startAppiumServer" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FactoryManagerTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="qa-framework" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="tests.BaseTest" />
-      <option name="METHOD_NAME" value="startAppiumServer" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BaseTest.startEmulator" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="qa-framework" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="tests.BaseTest" />
-      <option name="METHOD_NAME" value="startEmulator" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BaseTest.stopAppiumServer" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="qa-framework" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="tests.BaseTest" />
-      <option name="METHOD_NAME" value="stopAppiumServer" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.DM" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.FactoryManagerTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -112,13 +135,31 @@
       <module name="qa-framework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="tests.DM" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.GeneralStoreAppTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.archive.GeneralStoreAppTest" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeneralStoreAppTest.TC_001_ClientItemPurchaseJourney" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qa-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.archive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.archive.GeneralStoreAppTest" />
+      <option name="METHOD_NAME" value="TC_001_ClientItemPurchaseJourney" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -127,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AndroidGSTest" />
+        <item itemvalue="TestNG.GeneralStoreAppTest.TC_001_ClientItemPurchaseJourney" />
+        <item itemvalue="TestNG.FactoryManagerTest" />
         <item itemvalue="TestNG.GeneralStoreAppTest" />
         <item itemvalue="TestNG.BaseTest" />
-        <item itemvalue="TestNG.BaseTest.startEmulator" />
-        <item itemvalue="TestNG.BaseTest.startAppiumServer" />
-        <item itemvalue="TestNG.BaseTest.stopAppiumServer" />
       </list>
     </recent_temporary>
   </component>
@@ -169,6 +210,11 @@
       <workItem from="1578943767509" duration="1214000" />
       <workItem from="1578948320026" duration="61000" />
       <workItem from="1578949283596" duration="17000" />
+      <workItem from="1579020923675" duration="4000" />
+      <workItem from="1579552567761" duration="804000" />
+      <workItem from="1579553523089" duration="28549000" />
+      <workItem from="1579701828404" duration="2698000" />
+      <workItem from="1579743546821" duration="409000" />
     </task>
     <servers />
   </component>
@@ -176,46 +222,54 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1578528084570">
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1579695151635">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1578528084570" />
-    <state x="303" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578529172106">
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1579695151635" />
+    <state x="303" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1579700228776">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1578529172106" />
-    <state x="438" y="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1578529175505">
+    <state x="303" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1579700228776" />
+    <state x="438" y="200" width="404" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579702870817">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="438" y="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.680@0.0.1280.680" timestamp="1578529175505" />
-    <state x="326" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578501196484">
+    <state x="438" y="200" width="404" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1579702870817" />
+    <state x="438" y="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1579700232405">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="326" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1578501196484" />
+    <state x="438" y="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.680@0.0.1280.680" timestamp="1579700232405" />
+    <state x="326" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579663241906">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="326" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1579663241906" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579663286874">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1579663286874" />
     <state x="505" y="322" width="503" height="295" key="#xdebugger.evaluate" timestamp="1578499102318">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="505" y="322" width="503" height="295" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1578499102318" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1578498406794">
+    <state x="421" y="83" key="FileChooserDialogImpl" timestamp="1579655787194">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1578498406794" />
-    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1578534675062">
+    <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579655787194" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1579701815203">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578534675062" />
-    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1578534675046">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579701815203" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1579701815202">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578534675046" />
-    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1578534675046">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579701815202" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1579701815202">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578534675046" />
-    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1578534675062">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579701815202" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1579701815202">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578534675062" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579701815202" />
     <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1578534675062">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -236,5 +290,17 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1578925364007" />
+    <state x="450" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579661495545">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="450" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1579661495545" />
+    <state x="383" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1579703066702">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="383" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1579703066702" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1579664982208">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579664982208" />
   </component>
 </project>

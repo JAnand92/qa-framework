@@ -1,0 +1,8 @@
+pages\BasePage.class
+pages\GSProductPage.class
+utils\listeners\TestListeners.class
+tests\GeneralStoreAppTest.class
+pages\GSCartPage.class
+pages\GSHomePage.class
+tests\BaseTest.class
+utils\extentreports\ExtentManager.class

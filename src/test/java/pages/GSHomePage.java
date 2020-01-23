@@ -1,16 +1,14 @@
 package pages;
 
-import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 import io.appium.java_client.pagefactory.AppiumFieldDecorator;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
 
-public class GSHomePage extends BasePage{
+public class GSHomePage extends BasePage {
 
-    public GSHomePage(AndroidDriver androidDriver) {
-        PageFactory.initElements(new AppiumFieldDecorator(androidDriver), this);
-    }
+    public final WebDriver driver;
 
     @AndroidFindBy(xpath = "//android.widget.EditText[contains(@resource-id, 'nameField')]")
     private static WebElement txtNameField;
@@ -29,6 +27,29 @@ public class GSHomePage extends BasePage{
 
     @AndroidFindBy(xpath = "//android.widget.Toast[1]")
     private static WebElement txtToastMessage;
+
+    public GSHomePage(WebDriver driver) {
+        this.driver = driver;
+        PageFactory.initElements(new AppiumFieldDecorator(driver), this);
+    }
+
+    public static GSHomePage using(WebDriver driver) {
+        return new GSHomePage(driver);
+    }
+
+   public GSHomePage setName(String name) {
+        this.txtNameField.sendKeys("Hello");
+        return this;
+   }
+
+   public GSHomePage setGender() {
+        this.rdbFemale.click();
+        return this;
+   }
+
+   public void submit() {
+        btnLetsShop.click();
+   }
 
     public static void fillFormAndStartShopping() {
         try {
