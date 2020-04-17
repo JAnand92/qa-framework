@@ -1,0 +1,20 @@
+Appium:
+
+1. What is hybrid app and web views are?
+- There are 3 main types of application:
+    a. Native App
+    b. IOs Native App
+    c. Android Native App
+- Mainly build apps are native apps.
+- Web views are apps that are written using HTML and access using browser.
+- Hybrid app: Looks like native but got Web View as well.
+
+2. To deal with Hybrid application - we need to learn Appium Context Api.
+
+3. Context API: How it works.
+- iOS Web view automation: Appium uses "Remote Debugger" protocol to connect to Mobile Safari.
+- This protocol helps to get information about the pages, displayed on Safari.
+- There is command available to inject java scripts in web pages and appium uses that command to implement all the function
+available in web driver api.
+- Android Web view automation: There is no issue with it, as there is full implementation available for chrome driver and appium
+makes use of it.

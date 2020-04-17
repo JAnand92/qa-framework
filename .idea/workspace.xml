@@ -2,7 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd9a433b-ae2b-45ce-8f7e-d19f4816fab4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_btf_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_jackson_coreutils_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_json_schema_core_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_json_schema_validator_2_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_msg_simple_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_uri_template_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_libphonenumber_libphonenumber_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_restassured_json_schema_validator_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mailapi_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20190722.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mozilla_rhino_1_7R4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Jayesh_Anand.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Jayesh_Anand.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_restassured_json_path_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_restassured_json_path_2_8_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_restassured_rest_assured_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_restassured_rest_assured_2_8_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_restassured_rest_assured_common_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_restassured_rest_assured_common_2_8_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_restassured_xml_path_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_restassured_xml_path_2_8_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qa-framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/qa-framework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/global.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/global.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/driverFactory/AndroidDriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/gui/java/driverFactory/AndroidDriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/driverFactory/ChromeDriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/gui/java/driverFactory/ChromeDriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/driverFactory/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/gui/java/driverFactory/DriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/driverFactory/DriverManagerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/gui/java/driverFactory/DriverManagerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/driverFactory/DriverType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/gui/java/driverFactory/DriverType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/driverFactory/IEDriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/gui/java/driverFactory/IEDriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/gui/java/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/GSHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/gui/java/pages/GSHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/ApiDemos-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/gui/java/resources/ApiDemos-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/General-Store.apk" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/gui/java/resources/General-Store.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/IEDriverServer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/gui/java/resources/IEDriverServer.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/StartJATestEmulator.bat" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/gui/java/resources/StartJATestEmulator.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/gui/java/resources/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/AndroidGSTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/gui/java/tests/AndroidGSTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/gui/java/tests/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ChromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/gui/java/tests/ChromeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/extentreports/ExtentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/gui/java/utils/extentreports/ExtentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/helpers/PropertyReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/gui/java/utils/helpers/PropertyReaderHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/listeners/TestListeners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/gui/java/utils/listeners/TestListeners.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/driverFactory/AndroidDriverManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/driverFactory/AndroidDriverManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/driverFactory/ChromeDriverManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/driverFactory/ChromeDriverManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/driverFactory/IEDriverManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/driverFactory/IEDriverManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/GSHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/GSHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ChromeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/ChromeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utils/helpers/PropertyReader.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +94,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
@@ -38,13 +104,6 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\test\java\resources" />
-      <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\test" />
-      <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\test\mobile" />
-      <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\test\java" />
-      <recent name="C:\Development\QA\Tools\Appium\qa-framework\src" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="tests" />
       <recent name="pages" />
@@ -55,9 +114,39 @@
       <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\test\web\java\resources" />
       <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\resources" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tests" />
+      <recent name="pages.MMT.serviceFactory" />
+      <recent name="pages.MMT.servicePages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\test\gui" />
+      <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\test\java\resources" />
+      <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\test" />
+      <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\test\mobile" />
+      <recent name="C:\Development\QA\Tools\Appium\qa-framework\src\test\java" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.ChromeTest">
-    <configuration name="AndroidGSTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.CreateBooking.createBooking">
+    <configuration name="CreateBooking.createBooking" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qa-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pages" />
+      <option name="MAIN_CLASS_NAME" value="pages.CreateBooking" />
+      <option name="METHOD_NAME" value="createBooking" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestfulBookerApiTest.getBookingDetails" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="qa-framework" />
       <extension name="coverage">
         <pattern>
@@ -66,15 +155,16 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.AndroidGSTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="tests.RestfulBookerApiTest" />
+      <option name="METHOD_NAME" value="getBookingDetails" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChromeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="RestfulBookerApiTest.getBookingDetailsXMLResponse" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="qa-framework" />
       <extension name="coverage">
         <pattern>
@@ -83,49 +173,16 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.ChromeTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="tests.RestfulBookerApiTest" />
+      <option name="METHOD_NAME" value="getBookingDetailsXMLResponse" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactoryManagerTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="qa-framework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.DM" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.FactoryManagerTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GeneralStoreAppTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="qa-framework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.DM" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.GeneralStoreAppTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GeneralStoreAppTest.TC_001_ClientItemPurchaseJourney" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="RestfulBookerApiTest.getBookingIdFilterByName" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="qa-framework" />
       <extension name="coverage">
         <pattern>
@@ -134,8 +191,26 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.GeneralStoreAppTest" />
-      <option name="METHOD_NAME" value="TC_001_ClientItemPurchaseJourney" />
+      <option name="MAIN_CLASS_NAME" value="tests.RestfulBookerApiTest" />
+      <option name="METHOD_NAME" value="getBookingIdFilterByName" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestfulBookerApiTest.headerAndCookieTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qa-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.RestfulBookerApiTest" />
+      <option name="METHOD_NAME" value="headerAndCookieTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -145,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ChromeTest" />
-        <item itemvalue="TestNG.AndroidGSTest" />
-        <item itemvalue="TestNG.GeneralStoreAppTest.TC_001_ClientItemPurchaseJourney" />
-        <item itemvalue="TestNG.FactoryManagerTest" />
-        <item itemvalue="TestNG.GeneralStoreAppTest" />
+        <item itemvalue="TestNG.CreateBooking.createBooking" />
+        <item itemvalue="TestNG.RestfulBookerApiTest.getBookingDetailsXMLResponse" />
+        <item itemvalue="TestNG.RestfulBookerApiTest.headerAndCookieTest" />
+        <item itemvalue="TestNG.RestfulBookerApiTest.getBookingIdFilterByName" />
+        <item itemvalue="TestNG.RestfulBookerApiTest.getBookingDetails" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +269,14 @@
       <workItem from="1579743546821" duration="786000" />
       <workItem from="1579753670633" duration="736000" />
       <workItem from="1579754573992" duration="1148000" />
-      <workItem from="1579796157399" duration="661000" />
+      <workItem from="1579796157399" duration="1067000" />
+      <workItem from="1579798161474" duration="7552000" />
+      <workItem from="1579807791230" duration="3733000" />
+      <workItem from="1580282158386" duration="8000" />
+      <workItem from="1582071290525" duration="3233000" />
+      <workItem from="1586199832137" duration="10061000" />
+      <workItem from="1586955461855" duration="18945000" />
+      <workItem from="1587148979731" duration="8188000" />
     </task>
     <servers />
   </component>
@@ -206,14 +288,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="95" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1579750051260" />
-    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1579695151635">
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1579808118345">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1579695151635" />
-    <state x="303" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1579700228776">
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1579808118345" />
+    <state x="369" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582071615505">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1579700228776" />
+    <state x="369" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1582071615505" />
+    <state x="446" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1587155851778">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1587155851778" />
+    <state x="303" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586955746265">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1586955746265" />
     <state x="438" y="200" width="404" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579746215008">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -230,46 +320,46 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1579753505364" />
-    <state x="505" y="322" width="503" height="295" key="#xdebugger.evaluate" timestamp="1578499102318">
+    <state x="505" y="322" width="503" height="295" key="#xdebugger.evaluate" timestamp="1579809206121">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="505" y="322" width="503" height="295" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1578499102318" />
+    <state x="505" y="322" width="503" height="295" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1579809206121" />
     <state x="421" y="83" key="FileChooserDialogImpl" timestamp="1579655787194">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579655787194" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1579796892651">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1587157176849">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579796892651" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1579796892650">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587157176849" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1587157176849">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579796892650" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1579796892649">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587157176849" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1587157176849">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579796892649" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1579796892651">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587157176849" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1587157176849">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579796892651" />
-    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1579753666310">
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587157176849" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1586214289334">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579753666310" />
-    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1579753666310">
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586214289334" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1586214289334">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1579753666310" />
-    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1579753666309">
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1586214289334" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1586214289334">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1579753666309" />
-    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1579753666310">
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1586214289334" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1586214289334">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1579753666310" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586214289334" />
     <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1579750435109">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -282,10 +372,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1579748848604" />
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1578925364008">
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1587148979354">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1578925364007" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587148979354" />
     <state x="450" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579661495545">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -294,9 +384,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="383" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1579703066702" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1579752751495">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1586203217179">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579752751495" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1586203217179" />
   </component>
 </project>
